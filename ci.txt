@@ -1,0 +1,2 @@
+WorkFlow file to automate testing and deployment
+depolying  the applications to a cloud platform(heroku/aws)
